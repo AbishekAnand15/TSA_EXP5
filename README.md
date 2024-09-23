@@ -7,7 +7,7 @@
 
 ### AIM:
 
-To Illustrates how to perform time series analysis and decomposition on the Vegetable Prices data.
+To Illustrates how to perform time series analysis and decomposition on the Sales for furniture store data.
 
 ### ALGORITHM:
 
